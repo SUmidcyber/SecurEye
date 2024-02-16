@@ -7,8 +7,6 @@ class Main:
     def menu():
         print("""
             1. **Web Site Scan**
-            2. **Daily Analysis**
-            3. **IP address - Port Scan**
         """)
 
     @staticmethod
